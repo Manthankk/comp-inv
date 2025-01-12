@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2991f079-9628-4b83-9da5-4cb1832f7d5d)Inventory Management System
+Inventory Management System
 
 Overview
 
